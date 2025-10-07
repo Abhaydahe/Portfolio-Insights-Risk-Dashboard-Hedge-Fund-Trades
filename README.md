@@ -119,7 +119,7 @@ To develop a system that automates **trade data ingestion**, **performance compu
 **Abhay Dahe**  
 Business Analyst | Data Analyst | Python | SQL | Documentation Expert  
 🌐 [GitHub Profile](https://github.com/Abhaydahe)  
-📧 [Add your email here]
+📧 abhaydahe2206@gmail.com
 
 ---
 
